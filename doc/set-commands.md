@@ -1,4 +1,4 @@
-List of Supported Set Commands
+Lis of Supported Set Commands
 ==============================
 
 The following `:set` commands can appear in `~/.ideavimrc` or be set manually in the command mode:
